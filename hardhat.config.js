@@ -46,7 +46,7 @@ module.exports = {
     hardhat: {
 
       forking: {
-        url: 'https://site1.moralis-nodes.com/eth/7ea2027cf2ce47d8901d860d2abd7dfb',
+        url: 'wss://ethereum-rpc.publicnode.com',
         blockNumber: 21276472,
       },
       accounts: {
