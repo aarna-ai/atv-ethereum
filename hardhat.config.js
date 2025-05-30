@@ -46,7 +46,7 @@ module.exports = {
     hardhat: {
 
       forking: {
-        url: 'wss://ethereum-rpc.publicnode.com',
+        url: 'https://eth-mainnet.public.blastapi.io',
         blockNumber: 21276472,
       },
       accounts: {
