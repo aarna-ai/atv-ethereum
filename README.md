@@ -2,7 +2,7 @@ AFi Testcases execution on mainnet fork:
 
 # to run the mainnet fork with new infura link (Same can be modified for solidity )
 
-npx hardhat node --fork "wss://ethereum-rpc.publicnode.com"
+npx hardhat node --fork "https://eth-mainnet.public.blastapi.io/"
 
 # run test
 npx hardhat test ./test/AFiBase.test.js
